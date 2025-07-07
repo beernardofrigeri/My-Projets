@@ -22,3 +22,21 @@ p {
     font-family: arial;
     font-size: 14px;
 }
+a {
+    font-family: arial;
+    font-size: 14px;
+    color: aqua;
+}
+.botao {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: lightseagreen;
+    color: (rgb(0, 0, 0), green, rgb(1, 1, 120));
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+.botao:hover {
+    background-color: blue; 
+}
