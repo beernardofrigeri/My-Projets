@@ -9,7 +9,8 @@ Nesse repositório você irá encontrar:
 
 4° - CSS (o que menos tem, mas que faz par com o HTML)
 
-Esse repositório está parado, finalizado, então se quiser coisas mais atuais, veja em outros repositórios.
+Esse repositório está parado, finalizado, então se quiser coisas mais atuais, veja em outros repositórios. Os Commits dos arquivos de qualquer tipo de linguagem estarão (estão) desatualizados, por favor, não considere estes trabalhos, eles já são de outro momento de estudo. Entretanto, fique completamente à vontade para os ver e usar!
+
 Até!
 
-Bernardo Frigeri, 2025.
+Ass: Bernardo Frigeri, 2025.
